@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\struct\struct\obj\Debug\net6.0\struct.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\struct\struct\obj\Debug\net6.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\struct\struct\obj\Debug\net6.0\struct.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\struct\struct\obj\Debug\net6.0\struct.AssemblyInfo.cs
+C:\Users\User\source\repos\struct\struct\obj\Debug\net6.0\struct.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\struct\struct\bin\Debug\net6.0\struct.exe
+C:\Users\User\source\repos\struct\struct\bin\Debug\net6.0\struct.deps.json
+C:\Users\User\source\repos\struct\struct\bin\Debug\net6.0\struct.runtimeconfig.json
+C:\Users\User\source\repos\struct\struct\bin\Debug\net6.0\struct.dll
+C:\Users\User\source\repos\struct\struct\bin\Debug\net6.0\ref\struct.dll
+C:\Users\User\source\repos\struct\struct\bin\Debug\net6.0\struct.pdb
+C:\Users\User\source\repos\struct\struct\obj\Debug\net6.0\struct.dll
+C:\Users\User\source\repos\struct\struct\obj\Debug\net6.0\ref\struct.dll
+C:\Users\User\source\repos\struct\struct\obj\Debug\net6.0\struct.pdb
+C:\Users\User\source\repos\struct\struct\obj\Debug\net6.0\struct.genruntimeconfig.cache
